@@ -1,4 +1,5 @@
-A simple caroussel in react
+A simple caroussel in react for users
+
 
 # Getting Started with Create React App
 
